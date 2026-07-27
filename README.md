@@ -29,7 +29,7 @@ Central workspace for managing a project's information, linked resources, and th
 Displays every episode in the project, providing a high-level view of the production timeline and available content.
 ![PromptRules Episode Details screen](screenshots/EpisodeMain.png)
 
-### 🎥 Episode Detail
+## 🎥 Episode Detail
 Organizes an episode's scenes, assets, characters, and prompt rules into a single production workspace.
 ![PromptRules Episode Details screen](screenshots/EpisodeDetail.png)
 
