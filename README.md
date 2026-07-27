@@ -39,7 +39,7 @@ Organizes an episode's scenes, assets, characters, and prompt rules into a singl
 Displays every character in the project, making it easy to organize and maintain consistent character references.
 ![PromptRules Characters screen](screenshots/CharacterMain.png)
 
-##🐶 Character Detail
+## 🐶 Character Detail
 Manages a character's reference images, attributes, and prompt rules to ensure visual consistency across every scene.
 ![PromptRules Characters screen](screenshots/CharacterDetail.png)
 
