@@ -4,13 +4,14 @@ PromptRules is a desktop application for managing AI animation projects. It orga
 
 ## Features
 
-- Project management
-- Episode and scene management
-- Character and asset libraries
-- Reusable prompt rule management
-- Rule compilation workflow
-- SQL Server backend
-- React-based user interface with a Python backend
+| Feature         | Description                             |
+| --------------- | --------------------------------------- |
+| 📁 Projects     | Organize multiple AI animation projects |
+| 🎬 Episodes     | Manage episodes and scenes              |
+| 👥 Characters   | Maintain character consistency          |
+| 📦 Assets       | Track reusable objects                  |
+| 📜 Prompt Rules | Build reusable prompt components        |
+| ⚙️ Compiler     | Generate model-specific prompts         |
 
 ---
 
@@ -36,6 +37,7 @@ PromptRules is a desktop application for managing AI animation projects. It orga
 ![PromptRules Characters screen](screenshots/CharacterMain.png)
 
 ### Characters Detail
+Displays the character's reference images, prompt rules, and metadata used to maintain visual consistency throughout a project.
 
 ![PromptRules Characters screen](screenshots/CharacterDetail.png)
 
