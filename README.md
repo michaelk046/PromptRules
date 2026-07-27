@@ -12,22 +12,30 @@ PromptRules is a desktop application for managing AI animation projects. It orga
 - SQL Server backend
 - React-based user interface with a Python backend
 
-## Screenshots
-
 ### Projects
-(screenshot)
+
+![PromptRules Projects screen](screenshots/ProjectMain.png)
+![PromptRules Projects screen](screenshots/ProjectDetail.png)
 
 ### Episode Details
-(screenshot)
+
+![PromptRules Episode Details screen](screenshots/EpisodeMain.png)
+![PromptRules Episode Details screen](screenshots/EpisodeDetail.png)
 
 ### Characters
-(screenshot)
+
+![PromptRules Characters screen](screenshots/CharacterMain.png)
+![PromptRules Characters screen](screenshots/CharacterDetail.png)
 
 ### Assets
-(screenshot)
+
+![PromptRules Assets screen](screenshots/AssetMain.png)
+![PromptRules Assets screen](screenshots/AssetDetail.png)
 
 ### Prompt Rules
-(screenshot)
+
+![PromptRules Rules screen](screenshots/RulesMain.png)
+![PromptRules Rules screen](screenshots/RulesDetail.png)
 
 ## Technology
 - Python
