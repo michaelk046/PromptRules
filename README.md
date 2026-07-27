@@ -15,7 +15,7 @@ PromptRules is a desktop application for managing AI animation projects. It orga
 
 ---
 
-📁 Project Main
+## 📁 Project Main
 
 ![PromptRules Projects screen](screenshots/ProjectMain.png)
 ![PromptRules Projects screen](screenshots/ProjectDetail.png)
