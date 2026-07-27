@@ -68,7 +68,7 @@ Defines the behavior, metadata, and categorization of each rule used by the Prom
 Generates the final AI prompt by combining project, episode, scene, character, and asset rules into a single output.
 ![Prompt Compiler](screenshots/Compiler.png)
 
-## 🤖 Build with
+## 🤖 Built with
 - Python
 - React
 - SQL Server
