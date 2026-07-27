@@ -12,7 +12,6 @@ PromptRules is a desktop application for managing AI animation projects. It orga
 | 📦 Assets       | Track reusable objects                  |
 | 📜 Prompt Rules | Build reusable prompt components        |
 | 🎯 Compiler     | Generate model-specific prompts         |
-
 ---
 
 ## 📁 Project Main
@@ -69,7 +68,7 @@ Defines the behavior, metadata, and categorization of each rule used by the Prom
 Generates the final AI prompt by combining project, episode, scene, character, and asset rules into a single output.
 ![Prompt Compiler](screenshots/Compiler.png)
 
-## Technology
+## 🤖 Build with
 - Python
 - React
 - SQL Server
