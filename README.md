@@ -1,6 +1,5 @@
 # PromptRules
-
-PromptRules is a desktop application for managing AI animation projects. It organizes projects, episodes, scenes, characters, assets, and reusable prompt rules into a structured workflow that compiles consistent prompts for AI image and video generation.
+A rule-based AI animation management system for creating consistent prompts across projects, episodes, scenes, characters, and assets.
 
 ## Features
 
