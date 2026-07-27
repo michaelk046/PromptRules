@@ -35,7 +35,7 @@ Organizes an episode's scenes, assets, characters, and prompt rules into a singl
 
 ---
 
-##👥 Character Main
+## 👥 Character Main
 Displays every character in the project, making it easy to organize and maintain consistent character references.
 ![PromptRules Characters screen](screenshots/CharacterMain.png)
 
@@ -45,21 +45,21 @@ Manages a character's reference images, attributes, and prompt rules to ensure v
 
 ---
 
-##📦 Asset Main
+## 📦 Asset Main
 Displays all reusable assets, allowing them to be organized and shared across multiple episodes and scenes.
 ![PromptRules Assets screen](screenshots/AssetMain.png)
 
-##🔧 Asset Detail
+## 🔧 Asset Detail
 Maintains each asset's images, properties, and prompt rules while tracking where it is used throughout the project.
 ![PromptRules Assets screen](screenshots/AssetDetails.png)
 
 ---
 
-##📜 Prompt Rules Main
+## 📜 Prompt Rules Main
 Organizes reusable prompt rules that serve as the foundation for consistent AI image and video generation.
 ![PromptRules Rules screen](screenshots/RulesMain.png)
 
-##⚙️ Prompt Rule Detail
+## ⚙️ Prompt Rule Detail
 Defines the behavior, metadata, and categorization of each rule used by the Prompt Compiler to generate final AI prompts.
 ![PromptRules Rules screen](screenshots/RuleDetail.png)
 
