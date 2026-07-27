@@ -30,12 +30,12 @@ PromptRules is a desktop application for managing AI animation projects. It orga
 ### Assets
 
 ![PromptRules Assets screen](screenshots/AssetMain.png)
-![PromptRules Assets screen](screenshots/AssetDetail.png)
+![PromptRules Assets screen](screenshots/AssetDetails.png)
 
 ### Prompt Rules
 
 ![PromptRules Rules screen](screenshots/RulesMain.png)
-![PromptRules Rules screen](screenshots/RulesDetail.png)
+![PromptRules Rules screen](screenshots/RuleDetail.png)
 
 ## Technology
 - Python
