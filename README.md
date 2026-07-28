@@ -71,7 +71,7 @@ Defines the behavior, metadata, and categorization of each rule used by the Prom
 <br>
 ## 🎯 Prompt Compiler
 Generates the final AI prompt by combining project, episode, scene, character, and asset rules into a single output.
-![PromptRules Compiler](screenshots/Compiler.png)
+![PromptRules Compiler screen](screenshots/Compiler.PNG)
 
 ---
 <br><br>
