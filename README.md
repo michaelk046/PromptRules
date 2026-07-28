@@ -13,6 +13,8 @@ A rule-based AI animation management system for creating consistent prompts acro
 | 🎯 Compiler     | Generate model-specific prompts         |
 ---
 
+
+
 ## 📁 Project Main
 Displays all projects in the system, providing quick access to manage episodes, characters, assets, and prompt rules.
 ![PromptRules Projects screen](screenshots/ProjectMain.png)
@@ -22,6 +24,8 @@ Central workspace for managing a project's information, linked resources, and th
 ![PromptRules Projects screen](screenshots/ProjectDetail.png)
 
 ---
+
+
 
 ## 🎬 Episode Main
 Displays every episode in the project, providing a high-level view of the production timeline and available content.
@@ -33,6 +37,8 @@ Organizes an episode's scenes, assets, characters, and prompt rules into a singl
 
 ---
 
+
+
 ## 👥 Character Main
 Displays every character in the project, making it easy to organize and maintain consistent character references.
 ![PromptRules Characters screen](screenshots/CharacterMain.png)
@@ -42,6 +48,8 @@ Manages a character's reference images, attributes, and prompt rules to ensure v
 ![PromptRules Characters screen](screenshots/CharacterDetail.png)
 
 ---
+
+
 
 ## 📦 Asset Main
 Displays all reusable assets, allowing them to be organized and shared across multiple episodes and scenes.
@@ -53,6 +61,8 @@ Maintains each asset's images, properties, and prompt rules while tracking where
 
 ---
 
+
+
 ## 📜 Prompt Rules Main
 Organizes reusable prompt rules that serve as the foundation for consistent AI image and video generation.
 ![PromptRules Rules screen](screenshots/RulesMain.png)
@@ -62,6 +72,8 @@ Defines the behavior, metadata, and categorization of each rule used by the Prom
 ![PromptRules Rules screen](screenshots/RuleDetail.png)
 
 ---
+
+
 
 ## 🎯 Prompt Compiler
 Generates the final AI prompt by combining project, episode, scene, character, and asset rules into a single output.
